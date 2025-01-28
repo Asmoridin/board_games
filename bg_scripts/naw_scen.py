@@ -5,7 +5,8 @@ Scenario searcher/information for Nations at War by LNL
 """
 
 import os
-import sys
+
+from steve_utils.output_utils import double_print
 
 valid_countries = ['Germany', 'USSR', 'UK', 'USA', 'France', 'Canada', 'Poland', 'Italy',
     'Vichy France', ]
@@ -14,12 +15,8 @@ month_map = {1:'January', 2:'February', 3:'March', 4:'April', 5:'May', 6:'June',
 
 if os.getcwd().endswith('board_games'):
     file_h = open('DB/NationsAtWarScens.txt', 'r', encoding="UTF-8")
-    sys.path.append('..')
-    from steve_utils.output_utils import double_print
 else:
     file_h = open('board_games/DB/NationsAtWarScens.txt', 'r', encoding="UTF-8")
-    sys.path.append('.')
-    from steve_utils.output_utils import double_print
 
 scenarios = []
 map_dict = {}
