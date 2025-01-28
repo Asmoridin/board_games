@@ -15,11 +15,11 @@ month_map = {1:'January', 2:'February', 3:'March', 4:'April', 5:'May', 6:'June',
 if os.getcwd().endswith('board_games'):
     file_h = open('DB/NationsAtWarScens.txt', 'r', encoding="UTF-8")
     sys.path.append('..')
-    from steve_utils.output_utils import double_print # type: ignore
+    from steve_utils.output_utils import double_print
 else:
     file_h = open('board_games/DB/NationsAtWarScens.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
-    from steve_utils.output_utils import double_print # type: ignore
+    from steve_utils.output_utils import double_print
 
 scenarios = []
 map_dict = {}
@@ -66,10 +66,10 @@ for line in file_h.readlines():
         scen_theater, maps, turns, product))
 
 if __name__ == "__main__":
-    if os.getcwd().endswith('card-minis-boardgames'):
-        out_file_h = open("board_games/output/NAWScenarios.txt", 'w', encoding="UTF-8")
-    else:
+    if os.getcwd().endswith('board_games'):
         out_file_h = open("output/NAWScenarios.txt", 'w', encoding="UTF-8")
+    else:
+        out_file_h = open("board_games/output/NAWScenarios.txt", 'w', encoding="UTF-8")
 
     double_print(f"There are {len(scenarios)} total scenarios.", out_file_h)
 

@@ -6,7 +6,6 @@ Script that generates groups for a future Exceed tournament
 
 import math
 import random
-import os
 
 red_horizon = ['Eva', 'Kaden', 'Miska', 'Lily', 'Reese', 'Heidi', 'Vincent', 'Nehtali',
     'Satoshi', 'Mei-Lien', 'Baelkhor', 'Morathi', 'Gabrek', 'Ulrik', 'Alice', 'Zoey', ]#16
@@ -57,5 +56,3 @@ if __name__ == "__main__":
         print(group)
     summ_str = f"\nTotal: {len(fighters)} Fighters, and {math.comb(len(fighters), 2)} combinations"
     print(summ_str)
-    if not os.getcwd().endswith('card-minis-boardgames'):
-        input("Press enter to continue...")
