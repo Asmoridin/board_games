@@ -1,0 +1,6 @@
+#Name;Side1 (Warsaw);Side2 (NATO);Location;Maps;Turns;Product
+Assault Across the Weser - Minden: South;Soviet Union;West Germany,United Kingdom;South of Minden on the Weser River, Germany;53,54,55,56;18;Operation Red Gauntlet
+Red Lightning - Minden: North;Soviet Union;United Kingdom,West Germany;Minden, West Germany;49,50,51,52;15;Operation Red Gauntlet
+Cracking the Neesen Bridgehead;Soviet Union;West Germany,United Kingdom;Neesen, West Germany;5,7;10;Operation Red Gauntlet
+Death From Above;Soviet Union;West Germany,United Kingdom;Vicinity of Holzminden on the Weser, West Germany;6,8;13;Operation Red Gauntlet
+Operation Red Gauntlet;Soviet Union;West Germany,United Kingdom, United States;Minden and environs, West Germany;49,50,51,52,53,54,55,56;20;Operation Red Gauntlet
