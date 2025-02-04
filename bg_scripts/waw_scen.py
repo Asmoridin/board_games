@@ -44,7 +44,7 @@ for line in file_h.readlines():
         map_dict[used_map] += 1
     if turns != 'Variable':
         turns = int(turns)
-    if product not in ['Operation Red Gauntlet']:
+    if product not in ['Operation Red Gauntlet', 'Blood and Fury']:
         print("Invalid product: " + product)
     scenarios.append((scenario_name, sov_countries, allied_countries, scen_location, \
         maps, turns, product))

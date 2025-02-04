@@ -1,4 +1,4 @@
-There are 5 total scenarios.
-Out of 12 maps, map 53 is the most used - 2 times.
+There are 21 total scenarios.
+Out of 13 maps, map 7 is the most used - 14 times.
 Least used map is 8 - only used 1 time(s).
-Shortest scenario is Cracking the Neesen Bridgehead (10 turns); longest is Operation Red Gauntlet (20 turns)
+Shortest scenario is Escape from Gütersloh (5 turns); longest is Operation Red Gauntlet (20 turns)

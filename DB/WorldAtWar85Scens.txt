@@ -1,6 +1,22 @@
 #Name;Side1 (Warsaw);Side2 (NATO);Location;Maps;Turns;Product
 Assault Across the Weser - Minden: South;Soviet Union;West Germany,United Kingdom;South of Minden on the Weser River, Germany;53,54,55,56;18;Operation Red Gauntlet
-Red Lightning - Minden: North;Soviet Union;United Kingdom,West Germany;Minden, West Germany;49,50,51,52;15;Operation Red Gauntlet
+Blood and Fury;Soviet Union;United Kingdom;The Rhine Bridges, North of Wesel, West Germany;4,5,7;16;Blood and Fury
+Bridgehead At Bad Oeynhausen;Soviet Union;United Kingdom;Bad Oeynhausen;6,7;12;Blood and Fury
+By Their Deeds Alone;Soviet Union;United States;Peine, West Germany;6,7;13;Blood and Fury
+Charge of the Heavies;Soviet Union;United Kingdom;Gronau, West Germany;4,5,6,7;14;Blood and Fury
+Clearing Saerback;Soviet Union;United Kingdom;22km North of Münster, West Germany;4,5,6,7;17;Blood and Fury
 Cracking the Neesen Bridgehead;Soviet Union;West Germany,United Kingdom;Neesen, West Germany;5,7;10;Operation Red Gauntlet
 Death From Above;Soviet Union;West Germany,United Kingdom;Vicinity of Holzminden on the Weser, West Germany;6,8;13;Operation Red Gauntlet
+Escape from Gütersloh;Soviet Union;West Germany, United Kingdom;Gütersloh, West Germany;5;5;Blood and Fury
+Fear Naught;Soviet Union;United Kingdom;West of Stemwede, West Germany;6,7;12;Blood and Fury
+Guns in a Knife Fight;Soviet Union;West Germany;Wasbüttel, north of Braunschweig (Brunswick), West Germany;6,7;10;Blood and Fury
+Hildesheim East;Soviet Union;United Kingdom, West Germany;Schellerton, east of Hildesheim, West Germany;6,7;12;Blood and Fury
+Hildesheim West;Soviet Union;United Kingdom;Hildesheim, West Germany;4,5;9;Blood and Fury
+Hold Until Relieved;Soviet Union;United Kingdom;Beckedorf, West Germany;5,7;12;Blood and Fury
 Operation Red Gauntlet;Soviet Union;West Germany,United Kingdom, United States;Minden and environs, West Germany;49,50,51,52,53,54,55,56;20;Operation Red Gauntlet
+Race to the Ruhr;Soviet Union;United Kingdom;Mülheim, West Germany;4,5,6,7;18;Blood and Fury
+Red Lightning - Minden: North;Soviet Union;United Kingdom,West Germany;Minden, West Germany;49,50,51,52;15;Operation Red Gauntlet
+Rinteln's Crossings;Soviet Union;United Kingdom;Steinbergen, on the outskirts of Rinteln, West Germany;7;13;Blood and Fury
+Splitting the Seam;Soviet Union;United Kingdom;Northwest of Herzberg am Harz, West Germany;6;9;Blood and Fury
+The Hildesheim Pocket;Soviet Union;United Kingdom, West Germany;Between Schellerten and Hildesheim West Germany;4,5,6,7;12;Blood and Fury
+Мист напад (Bridge Assault);Soviet Union;United Kingdom;Bodenwerder, West Germany;7;11;Blood and Fury
