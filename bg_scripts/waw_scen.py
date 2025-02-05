@@ -8,7 +8,10 @@ import os
 
 from steve_utils.output_utils import double_print
 
-valid_countries = ['Soviet Union', 'West Germany', 'United Kingdom', 'United States']
+valid_countries = ['Soviet Union', 'West Germany', 'United Kingdom', 'United States',
+    'East Germany', 'Czechoslovakia']
+VALID_PRODUCTS = ['Operation Red Gauntlet', 'Blood and Fury', 'Storming the Gap',
+    'Storm and Steel Second Wave', 'The Defense of Frankfurt']
 
 if os.getcwd().endswith('board_games'):
     file_h = open('DB/WorldAtWar85Scens.txt', 'r', encoding="UTF-8")
@@ -44,7 +47,7 @@ for line in file_h.readlines():
         map_dict[used_map] += 1
     if turns != 'Variable':
         turns = int(turns)
-    if product not in ['Operation Red Gauntlet', 'Blood and Fury']:
+    if product not in VALID_PRODUCTS:
         print("Invalid product: " + product)
     scenarios.append((scenario_name, sov_countries, allied_countries, scen_location, \
         maps, turns, product))

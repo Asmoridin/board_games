@@ -1,4 +1,4 @@
-There are 21 total scenarios.
-Out of 13 maps, map 7 is the most used - 14 times.
-Least used map is 8 - only used 1 time(s).
-Shortest scenario is Escape from Gütersloh (5 turns); longest is Operation Red Gauntlet (20 turns)
+There are 50 total scenarios.
+Out of 28 maps, map 7 is the most used - 14 times.
+Least used map is 48 - only used 1 time(s).
+Shortest scenario is Escape from Gütersloh (5 turns); longest is Whirlwind (20 turns)

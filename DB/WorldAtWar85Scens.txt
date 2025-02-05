@@ -1,22 +1,51 @@
 #Name;Side1 (Warsaw);Side2 (NATO);Location;Maps;Turns;Product
+A Matter of Bridges;Soviet Union;United States;Menghausen, West Germany, on the Fulda River, Southwest of Bad Hersfeld;2;11;Storming the Gap
+Aftermath;East Germany;United States,West Germany;Vicinity of Wolfskehlen, West Germany;2;10;Storming the Gap
 Assault Across the Weser - Minden: South;Soviet Union;West Germany,United Kingdom;South of Minden on the Weser River, Germany;53,54,55,56;18;Operation Red Gauntlet
 Blood and Fury;Soviet Union;United Kingdom;The Rhine Bridges, North of Wesel, West Germany;4,5,7;16;Blood and Fury
+Breakthrough to Frankfurt;Soviet Union;West Germany, United States;Weisskirchen, West Germany;37,38,39,40,41,42,43,44;20;The Defense of Frankfurt
 Bridgehead At Bad Oeynhausen;Soviet Union;United Kingdom;Bad Oeynhausen;6,7;12;Blood and Fury
+Bundeswehr Gegenangriff;Soviet Union;West Germany;Bebra, West Germany;3;10;Storming the Gap
 By Their Deeds Alone;Soviet Union;United States;Peine, West Germany;6,7;13;Blood and Fury
 Charge of the Heavies;Soviet Union;United Kingdom;Gronau, West Germany;4,5,6,7;14;Blood and Fury
 Clearing Saerback;Soviet Union;United Kingdom;22km North of Münster, West Germany;4,5,6,7;17;Blood and Fury
 Cracking the Neesen Bridgehead;Soviet Union;West Germany,United Kingdom;Neesen, West Germany;5,7;10;Operation Red Gauntlet
 Death From Above;Soviet Union;West Germany,United Kingdom;Vicinity of Holzminden on the Weser, West Germany;6,8;13;Operation Red Gauntlet
+Death of the 5th Panzer;Soviet Union;West Germany;East of Hausen, West Germany;3;10;Storming the Gap
+Engage More Closely;Soviet Union;West Germany, United States;Hessisch-Lichtenau, West Germany;1,2;Variable;Storming the Gap
 Escape from Gütersloh;Soviet Union;West Germany, United Kingdom;Gütersloh, West Germany;5;5;Blood and Fury
 Fear Naught;Soviet Union;United Kingdom;West of Stemwede, West Germany;6,7;12;Blood and Fury
+Fire on the Kinzigsee;Soviet Union;United States;East of Phase Line Gulfport, West of Langenselbold, West Germany;1,2;11;Storming the Gap
 Guns in a Knife Fight;Soviet Union;West Germany;Wasbüttel, north of Braunschweig (Brunswick), West Germany;6,7;10;Blood and Fury
 Hildesheim East;Soviet Union;United Kingdom, West Germany;Schellerton, east of Hildesheim, West Germany;6,7;12;Blood and Fury
 Hildesheim West;Soviet Union;United Kingdom;Hildesheim, West Germany;4,5;9;Blood and Fury
+Hold the Damn Line!;Soviet Union;United States, West Germany;Eschborn, West Germany;37,38,39,40,41,42,43,44;18;The Defense of Frankfurt
 Hold Until Relieved;Soviet Union;United Kingdom;Beckedorf, West Germany;5,7;12;Blood and Fury
+Iron Horse, Iron Spear;Soviet Union;United States;Lüdermund, on Phase Line Bradford, in the Southern Valley of the Fulda Gap;1,2;11;Storming the Gap
+Kassel Wall;Soviet Union;United States, West Germany;West of Sohrewald, West Germany, Southeast of Kassel;1,2;12;Storming the Gap
+Metal Rain;Soviet Union;West Germany;Wintenhausen, West Germany;3;8;Storming the Gap
+Mohr's Counterattack;Czechoslovakia;West Germany;Aiterhofen-Oberschneiding axis, West Germany;46,3;12;Storm and Steel Second Wave
+Mohr's Test;Czechoslovakia;West Germany;North of Graffling, West Germany;46;12;Storm and Steel Second Wave
+Night Storm;Soviet Union;United States;Bleidenrod, West Germany;1,2;20;Storming the Gap
 Operation Red Gauntlet;Soviet Union;West Germany,United Kingdom, United States;Minden and environs, West Germany;49,50,51,52,53,54,55,56;20;Operation Red Gauntlet
+Out of the Mist;East Germany;United States;Southwest of Bad Kissengen, West Germany;3;12;Storming the Gap
+Pandemonium;East Germany, Soviet Union;United States;Großkrotzenburg, West Germany;3,1;10;Storming the Gap
 Race to the Ruhr;Soviet Union;United Kingdom;Mülheim, West Germany;4,5,6,7;18;Blood and Fury
+Raiding to Regensburg;Czechoslovakia;West Germany;Buchhausen, West Germany;46;12;Storm and Steel Second Wave
 Red Lightning - Minden: North;Soviet Union;United Kingdom,West Germany;Minden, West Germany;49,50,51,52;15;Operation Red Gauntlet
 Rinteln's Crossings;Soviet Union;United Kingdom;Steinbergen, on the outskirts of Rinteln, West Germany;7;13;Blood and Fury
+Sleight of Hand;East Germany;West Germany;Wurzburg Area, West Germany;1,3;15;Storming the Gap
 Splitting the Seam;Soviet Union;United Kingdom;Northwest of Herzberg am Harz, West Germany;6;9;Blood and Fury
+Storming the Gap;Soviet Union;United States;Near the Highways between Eisenbach, East Germany and Bad Hersfeld, West Germany, in the Fulda Gap;1,2;10;Storming the Gap
+Straubing South;Czechoslovakia;West Germany;Aiterhoffen, West Germany;46;12;Storm and Steel Second Wave
+Straubing West;Czechoslovakia;West Germany;Rain and Perkham, West Germany;47,48;16;Storm and Steel Second Wave
+The Cauldron;Soviet Union;West Germany;Between Waldkappel and Meissner, West Germany;3;8;Storming the Gap
+The Decieved;East Germany, Soviet Union;United States;Aschaffenberg, West Germany;1,2,3;12;Storming the Gap
 The Hildesheim Pocket;Soviet Union;United Kingdom, West Germany;Between Schellerten and Hildesheim West Germany;4,5,6,7;12;Blood and Fury
+The Isar Crossings;Czechoslovakia;West Germany;Landshut, West Germany;45,1;20;Storm and Steel Second Wave
+The Rhine;East Germany, Soviet Union;United States, West Germany;West of Mainz, West Germany;1,2,3;20;Storming the Gap
+Trip Wire;Soviet Union;West Germany;Nentershausen, West Germany;3;8;Storming the Gap
+Vertial Strike;Soviet Union;United States;Friedberg, 25km Northeast of Frankfrut, West Germany;1,2;8;Storming the Gap
+Whirlwind;Soviet Union;United States;Marbach, West Germany;2,45;20;Storming the Gap
+Zweite Gegenangriff;Soviet Union;West Germany;Spangenberg, West Germany;3;10;Storming the Gap
 Мист напад (Bridge Assault);Soviet Union;United Kingdom;Bodenwerder, West Germany;7;11;Blood and Fury
