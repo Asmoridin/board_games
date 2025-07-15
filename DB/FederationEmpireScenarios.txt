@@ -1,0 +1,67 @@
+
+
+
+601;The Wind;Y168-Y170;2-4;Lyran/Klingon/Hydran/Kzinti;F&E Base Game
+602;The Tempest;Y171-Y172;2-5;Lyran/Klingon/Hydran/Kzinti/Federation;F&E Base Game
+603;The Hurricane;Y173-Y177;2-7;Lyran/Klingon/Romulan/Hydran/Kzinti/Federation/Gorn/Tholian;F&E Base Game
+604;The Whirlwind;Y178-Y180;2-7;Lyran/Klingon/Romulan/Hydran/Kzinti/Federation/Gorn/Tholian;F&E Base Game
+605;The Typhoon;Y181-Y185;2-7;Lyran/Klingon/Romulan/Hydran/Kzinti/Federation/Gorn/Tholian;F&E Base Game
+606;The Squall;Y168;2;Lyran/Kzinti;F&E Base Game
+607;The Four Powers War;Y157-Y162;4;Hydran/Kzinti/Lyran/Klingon;Fighter Operations
+608;Gale Force;Y175-Y178;7-8;Hydran/Kzinti/Federation/Gorn/Klingon/Lyran/Romulan/Tholian;Fighter Operations
+608A;The Hydran Front;Y175-Y178;2-3;Hydran/Lyran/Klingon;Fighter Operations
+608B;The Kzinti Front;Y175-Y188;2-3;Kzinti/Lyran/Klingon;Fighter Operations
+608C;The Northern Front;Y175-Y178;2-3;Federation/Klingon/Lyran;Fighter Operations
+608D;The Southern Front;Y175-Y178;2-3;Federation/Tholian/Klingon;Fighter Operations
+608E;The Federation-Romulan Front;Y175-Y178;2;Federation/Romulan;Fighter Operations
+608F;The Gorn-Romulan Front;Y175-Y178;2;Gorn/Romulan;Fighter Operations
+609;Koval's Lightning;Y171-Y172;2;Klingon/Federation;Combined Operations
+610;Thunder Over Kzintai;Y168-Y170;2-3;Lyran/Kzinti/Klingon;Combined Operations
+611;The Hydran Expedition;Y169-Y171;2;Hydran/Klingon;Combined Operations
+612;The Wayward Wind;Y168-Y171;3;Lyran/Hydran/Klingon;Combined Operations
+613;Reptilicon Revenged;Y167-Y168;2;Gorn/Romulan;Combined Operations
+614;Cold Front;Y168-Y170;3;Klingon/Lyran/Hydran;Combined Operations
+615;Tholian Gambit;Y168-Y172;2;Klingon/Tholian;Combined Operations
+616;Late Kingdom;Y168-Y168;3;Lyran/Klingon/Hydran;Combined Operations
+617;Winds Of Fire;Y181-Y183;9;Hydran/Kzinti/Federation/Gorn/Tholian/Klingon/Lyran/Romulan/Seltorian;Advanced Operations
+617A;The Hydran Front;Y181-Y183;2-3;Hydran/Lyran/Klingon;Advanced Operations
+617B;The Kzinti Front;Y181-Y183;2-3;Kzinti/Lyran/Klingon;Advanced Operations
+617C;The Northern Front;Y181-Y183;2-3;Federation/Klingon/Lyran;Advanced Operations
+617D;The Southern Front;Y181-Y183;2-3;Federation/Tholian/Klingon;Advanced Operations
+617E;The Federation-Romulan Front;Y181-Y183;2;Federation/Romulan;Advanced Operations
+617F;The Gorn-Romulan Front;Y181-Y183;2;Gorn/Romulan;Advanced Operations
+617H;The Drive On Klinshai;Y181-Y183;2-3;Federation/Gorn/Klingon;Advanced Operations
+618;Crosswinds;Y168-Y171;4;Klingon/Lyran/Hydran/Kzinti;Planetary Operations
+619;Backdraft;Y168-Y170;4;Lyran/Klingon/Hydran/Kzinti;Planetary Operations
+620;Fire In The East;Y168-Y171;2;Klingon/Federation;Planetary Operations
+621;Demon Of The Eastern Wind;Y168-Y185;2-8;Gorn/Romulan/Federation/Klingon/Tholian/Kzinti/Lyran/Hydran;Planetary Operations
+622;The ISC In The General War;Y181-Y185;2;Lyran/Klingon/Romulan/Gorn/Hydran/Kzinti/Federation/ISC/Tholian;ISC War
+623;The Great Eastern War;Y173-Y177;3;Romulan/Gorn/Tholian/ISC;ISC War
+624;Gathering Winds;Y168-Y172;2-3;Romulan/Gorn/ISC;ISC War
+625;Driving Winds;Y186-Y190;2-9;ISC/Federation/Klingon/Romulan/Kzintis/Gorn/Tholian/Hydran/Lyran;ISC War
+625A;Cordon Alpha;Y186-Y190;2-3;ISC/Romulan/Gorn;ISC War
+625B;Cordon Bravo;Y186-Y190;2-3;ISC/Romulan/Federation;ISC War
+625C;Cordon Charlie;Y186-Y190;2-4;ISC/Federation/Romulan/Klingon;ISC War
+625D;Cordon Delta;Y186-Y190;2-3;ISC/Federation/Klingon;ISC War
+625E;Cordon Echo;Y187-Y190;2-4;ISC/Kzinti/Lyran/Klingon;ISC War
+625F;Cordon Foxtrot;Y187-Y190;2-4;ISC/Hydran/Lyran/Klingon;ISC War
+625Y;Cordon Yankee;Y186-Y190;2;ISC/Gorn;ISC War
+625Z;Cordon Zulu;Y186-Y190;2;ISC/Romulan;ISC War
+626;Wall Cloud;Y169-Y185;2-8;Lyran/Klingon/Romulan/Hydran/Kzinti/Federation/Gorn/Tholian/LDR;Minor Empires
+627;Vortex Of Vengeance;Y180-Y186;2;Tholian/Seltorian;Minor Empires
+628;Static Fog;Y186-Y188;2;Vudar/Klingon;Minor Empires
+629;Freak Storm;Y186-Y188;2-5;Hydran/LDR/Vudar/Seltorian/Klingon;Minor Empires
+630;Electric Storm;Y185-Y187;2;Vudar/LDR;Minor Empires
+631;The War That Almost Was;Y157-Y160;2;Federation/Gorn;Tactical Operations
+632;Eye Of The Storm;Y168-Y190;2;Federation/Klingon/Lyran/Kzinti/Tholian/ISC/Hydran/Romulan/Gorn;Tactical Operations
+633;Firestorm;Y174-Y190;5;Federation/Klingon/Romulan/Gorn/Tholian;Tactical Operations
+634;Into The Whirlpool;Y168-Y169;2;Wyn/Klingon/Lyran/Kzinti;Tactical Operations
+658;Sudden Storm;Y168-Y183;8;Hydran/Kzinti/Federation/Gorn/Tholian/Klingon/Lyran/Romulan;Tactical Operations
+660;Eastern Sunrise;Y168-Y183;8;Hydran/Kzinti/Federation/Gorn/Tholian/Klingon/Lyran/Romulan;Tactical Operations
+675;Maelstrom;Y178-Y180;8;Hydran/Kzinti/Federation/Gorn/Romulan/Klingon/Lyran/Tholian;Strategic Operations
+675A;The Hydran Front;Y178-Y180;2-3;Hydran/Lyran/Klingon;Strategic Operations
+675B;The Kzinti Front;Y178-Y180;2-3;Kzinti/Lyran/Klingon;Strategic Operations
+675C;The Northern Front;Y178-Y180;2-3;Federation/Klingon/Lyran;Strategic Operations
+675D;The Southern Front;Y178-Y180;2-3;Federation/Tholian/Klingon;Strategic Operations
+675E;The Federation-Romulan Front;Y178-Y180;2;Federation/Romulan;Strategic Operations
+675F;The Gorn-Romulan Front;Y178-Y180;2;Gorn/Romulan;Strategic Operations
