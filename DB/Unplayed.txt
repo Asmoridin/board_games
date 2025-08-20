@@ -48,6 +48,7 @@ Austin Powers CCG
 Axis Empires: Ultimate Edition
 Balck Friday: The Tatsinskaya Raid, December 1942
 Barbarossa: Army Group Center, 1941
+Barbarossa: Army Group North, 1941
 Barbarossa: Crimea
 Barbarossa: Kiev to Rostov, 1941
 Barring the Gate
@@ -77,7 +78,6 @@ Bomber Command: The Night Raids
 Broken Legions: Fantasy Skirmish Wargames in the Roman Empire
 Buffalo Wings
 Buffy the Vampire Slayer CCG
-Burning Banners
 Bushido: Risen Sun
 By Swords and Bayonets
 Caesar in Alexandria
@@ -352,6 +352,7 @@ Striking the Anvil: Operation Anvil Dragoon
 Successors
 Suwałki Gap: The Baltic 2023
 Talisman
+Talon
 Target for Today
 Tarleton's Quarter!
 Teen Titans Collectible Card Game
@@ -440,6 +441,7 @@ Warmaster
 Wars of the Republic: Ancient Roman Wargaming 343–50 BC
 Washington's War
 Watch on the Rhine: The Siegfried Line Campaign, 1944-45
+Wingspan
 Wonders of The First CCG 
 World At War 85: Blood and Fury
 World of Tanks Miniatures Game
