@@ -150,12 +150,12 @@ Fire in the Sky: The Great Pacific War 1941-1945
 Fire on the Mountain: Battle of South Mountain September 14, 1862
 First Battle of Britain: The Air War Over England, 1917-18
 First Blood: Second Marne, 15 July 1918
-First Victories: Wellington versus Napoleon 
+First Victories: Wellington versus Napoleon
 Flesh and Blood
 Flying Colors
 For Bloody Honor: The Russian Civil War
 For the People
-Foreign Legion Paratroopers: Rapid Response Force 
+Foreign Legion Paratroopers: Rapid Response Force
 Forged Realms
 Forlorn Hopes
 France '40, 2nd edition
@@ -166,6 +166,7 @@ Gem Hens
 Gettysburg 1863
 Given Up for Dead
 Gloomhaven
+Godzilla Card Game
 Goose Green
 Grand Archive TCG
 Great War at Sea: Three games
@@ -204,7 +205,7 @@ Invasive Species
 ISIS War: The Next Middle East War
 Islamic State: Libya War
 Islamic State: The Syria War
-Italian Campaign 1943-44 (Campaigns in Europe Volume 3) 
+Italian Campaign 1943-44 (Campaigns in Europe Volume 3)
 Kaijudo
 Kesselschlacht: Ukraine Spring 1944
 Khe Sanh, 1968
@@ -224,7 +225,7 @@ Legend of the Burning Sands
 Legions Imperialis
 Lion of Malaya
 Lion of the North: The Dawn of Modern Warfare, 1631-1632
-Lock 'n Load Tactical: Day of Heroes 
+Lock 'n Load Tactical: Day of Heroes
 Lock 'n Load Tactical: Heroes Against the Red Star
 MacArthur's Defeat: The Battle For Luzon
 Magic: The Gathering – Arena of the Planeswalkers
@@ -304,7 +305,7 @@ Redline: Tactical Card Combat
 Redvers' Reverse: The Battle of Colenso, 1899
 Riot Quest
 Rogue Stars: Skirmish Wargaming in a Science Fiction Underworld
-Rome, IInc.: From Diocletian to Heraclius 
+Rome, IInc.: From Diocletian to Heraclius
 Rome, Inc.: From Augustus to Diocletian
 RONE
 Ronin: Skirmish Wargames in the Age of the Samurai
@@ -338,6 +339,7 @@ Squarriors: The Card Game
 Stalingrad: Verdun on the Volga
 Stamford Bridge: End of the Viking Age + A Hill Near Hastings
 Star Fleet Marines
+Star Wars: Battle of Hoth
 Star Wars: Han Solo Card Game
 Star Wars: Jedi Knights CCG
 Steamroller: Tannenberg 1914
@@ -382,6 +384,7 @@ The Mannerheim Line Campaign 1939-1940
 The Mule Shoe Salient
 The Nations Assemble
 The Pocket at Falaise
+The Rock of Chickamauga
 The Russo-Swedish War
 The Seeds of Disaster
 The Siege of Alesia: Gaul, 52 B.C.
@@ -399,7 +402,7 @@ Thunder in the East
 Tiger of Malaya
 Tigris & Euphrates
 Tiny Epic Cthulhu
-Tiny Epic Game of Thrones 
+Tiny Epic Game of Thrones
 Tiny Epic Vikings
 Tito and his Partisan Army: Yugoslavia, 1941-45
 Tonkin: The First Indochina War
@@ -417,12 +420,12 @@ Undaunted: Normandy
 Uprising
 USAAF: US Strategic Bombing Operations Over the Third Reich, 1944
 Utmost Savagery
-Velikiye Luki: Stalingrad of the North 
+Velikiye Luki: Stalingrad of the North
 Vercingetorix: Twilight of the Gauls
 Verdun: A Generation Lost
 Vicksburg: The Assault On Stockade Redan, May 1863
 Vijayanagara: The Deccan Empires of Medieval India, 1290-1398
-Virgin Queen 
+Virgin Queen
 War for Edaðh
 War Galley
 War in the Megacity
@@ -442,7 +445,7 @@ Wars of the Republic: Ancient Roman Wargaming 343–50 BC
 Washington's War
 Watch on the Rhine: The Siegfried Line Campaign, 1944-45
 Wingspan
-Wonders of The First CCG 
+Wonders of The First CCG
 World At War 85: Blood and Fury
 World of Tanks Miniatures Game
 World of Warcraft Trading Card Game
