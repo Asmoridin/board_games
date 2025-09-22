@@ -343,7 +343,6 @@ Squarriors: The Card Game
 Stalingrad: Verdun on the Volga
 Stamford Bridge: End of the Viking Age + A Hill Near Hastings
 Star Fleet Marines
-Star Wars: Battle of Hoth
 Star Wars: Han Solo Card Game
 Star Wars: Jedi Knights CCG
 Steamroller: Tannenberg 1914
@@ -449,6 +448,7 @@ Wars of the Republic: Ancient Roman Wargaming 343–50 BC
 Washington's War
 Watch on the Rhine: The Siegfried Line Campaign, 1944-45
 Wingspan
+Wixoss
 Wonders of The First CCG
 World At War 85: Blood and Fury
 World of Tanks Miniatures Game
