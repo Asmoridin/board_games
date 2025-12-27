@@ -9,6 +9,7 @@ Deadpool
 Doctor Strange
 Gambit
 Gunslinger
+Headless Horseman
 Huntress
 Iceman
 Jean Grey
@@ -16,10 +17,13 @@ Krampus
 Loki
 Monk
 Moon Elf
+Necromancer
 Ninja
 Paladin
+Pale Lady
 Psylocke
 Pyromancer
+Raveness
 Rogue
 Samurai
 Santa
