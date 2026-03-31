@@ -1,5 +1,7 @@
-'85 Afghanistan: Graveyard of Empires
+1WW: World War One in Europe
 02 Hundred Hours: Night Raids in World War II
+8th Air Force
+'85 Afghanistan: Graveyard of Empires
 1565: St. Elmo's Pay – The Great Siege of Malta
 1805: Sea of Glory
 1815, Scum of the Earth: The Battle of Waterloo Card Game
@@ -7,8 +9,6 @@
 1936: What If?
 1938: What if?
 1941: What If? An Alternative History Wargame of a Second Winter War
-1WW: World War One in Europe
-8th Air Force
 A Billion Suns: Interstellar Fleet Battles
 A Call to Arms: Star Fleet
 A Cornered Wolf: The Air Assault on Rastenburg (July or August 1944)
@@ -110,10 +110,10 @@ Crowbar! The Rangers at Pointe Du Hoc
 Cruel Necessity: The English Civil Wars 1640-1653
 Crystal Clans
 Czech Legion: Escape from the Soviet Union
-D-Day to The Rhine 1944 (Campaigns in Europe Volume 4)
 Daemon Dice
 Dawn of Battle
 Day of Infamy: The Attack on Pearl Harbor
+D-Day to The Rhine 1944 (Campaigns in Europe Volume 4)
 Dead of Winter: The Battle of Stones River
 Deadlands: Lost Colony – Showdown
 Deadpool vs The World
@@ -275,9 +275,12 @@ On the Edge
 On to Baghdad
 One Deck Dungeon: Forest of Shadows
 One Page Space
+Operation Agreement: The Tobruk Raid, September 14, 1942
+Operation Bigamy: The Benghazi Raid, September 13, 1942
 Operation Ichi-Go: Japan's Massive 1944 Offensive Across China
 Operation KITA
 Operation Musketeer: The '56 War in the Middle East
+Operation Nicety: The Raid on Jalo Oasis, September 15/16, 1942
 Operation Pedestal: Convoy to Malta
 Operation Pincher: Stalin's Drive In the Middle East, 1949
 Operation Roundup: The Allies Invade France in 1943
@@ -424,6 +427,7 @@ Toulon, 1793
 Trapping the Ogre
 Trois Batailles en Allemagne
 Trudvang Legends
+Trying Men's Souls: The Campaign for New York, August-October 1776
 Tuesday, The Führer Slept Late
 Twilight Imperium: Fourth Edition
 Twilight of the Gods
