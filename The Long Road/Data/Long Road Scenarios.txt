@@ -1,0 +1,2 @@
+# Scenario Name;Map;Side 1;Side 2;Product
+Broken Logic: This Land is our Land;C;Warsaw Pact (Soviets);Bischofewaldshof Liberation Army;Yaah 16 Bonus Scenarios
