@@ -1,0 +1,2 @@
+# Scenario Name;Maps;Length;Side 1;Side 2;Product
+Prek Klok, Again;2,3;8;USA;PAVN (NVA);Yaah 16 Bonus Scenarios
