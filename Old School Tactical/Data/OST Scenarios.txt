@@ -1,0 +1,16 @@
+# Scenario Name;Date;Location;Maps;Turns;Axis;Allies;Product;Scen Number in Product
+One Day in May;5/17/1940;;11;INF;Germany;France;Yaah 16 Bonus Scenarios;1
+Guns of Sedan;5/13/1940;Sedan, France;11;10;Germany;France;OST V5: Battle for France 1940;1
+A Question of Honor;5/14/1940;Near Chéry-lès-Pouilly, France;11;8;Germany;France;OST V5: Battle for France 1940;2
+Bonne Chance;5/14/1940;Near Beaumont, Belgium;11;10;Germany;France;OST V5: Battle for France 1940;3
+The Gembloux Gap;5/15/1940;Ernage, Belgum;11;10;Germany;France;OST V5: Battle for France 1940;4
+Blood and Iron;5/16/1940;Near Stonne, France;11;9;Germany;France;OST V5: Battle for France 1940;5
+Stonne Cold;5/16/1940;Stonne, France;11;12;Germany;France;OST V5: Battle for France 1940;6
+De Gaulle Strikes;5/17/1940;Montcornet, France;11;12;Germany;France;OST V5: Battle for France 1940;7
+African Bayonets;5/17/1940;Montcornet, France;11;10;Germany;France;OST V5: Battle for France 1940;8
+Guderian's Gambit;5/19/1940;Approaching Abbeville, France;11;11;Germany;France;OST V5: Battle for France 1940;9
+Gate to Dunkirk;5/30/1940;Near Bergues, France;11;8;Germany;France;OST V5: Battle for France 1940;10
+The Château de Correy;6/8/1940;Seine Valley, France;11;8;Germany;France;OST V5: Battle for France 1940;11
+Price of Delay;6/10/1940;Juniville, France;11;8;Germany;France;OST V5: Battle for France 1940;12
+Maginot Defiance;6/12/1940;Gembloux, France;11;10;Germany;France;OST V5: Battle for France 1940;13
+Last Act;6/20/1940;Gennes, France;11;10;Germany;France;OST V5: Battle for France 1940;14
