@@ -1,0 +1,2 @@
+# Scenario Name;Maps;Turns;Side 1;Side 2;Yaah 16 Bonus Scenarios
+Close With and Destroy;5,7;7;Soviet;Mujahideen;Yaah 16 Bonus Scenarios
