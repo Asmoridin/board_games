@@ -1,2 +1,3 @@
-# Scenario Name;Map;Side 1;Side 2;Product
-This Land is our Land;C;Warsaw Pact (Soviets);Bischofewaldshof Liberation Army;Yaah 16 Bonus Scenarios
+# Scenario Name;Map;Side 1;Side 2;Product;Scen Number in Product
+This Land is our Land;C;Warsaw Pact (Soviets);Bischofewaldshof Liberation Army;Yaah #16 Bonus Scenarios;1
+Desperation;?;Warsaw Pact;Reluctant Allies;Yaah #16;1

@@ -1,2 +1,3 @@
-# Scenario Name;Maps;Length;Side 1;Side 2;Product
-Prek Klok, Again;2,3;8;USA;PAVN (NVA);Yaah 16 Bonus Scenarios
+# Scenario Name;Maps;Length;Side 1;Side 2;Product;Scen Number in Product
+Prek Klok, Again;2,3;8;USA;PAVN (NVA);Yaah #16 Bonus Scenarios;1
+Operation Dewey Canyon;1,2;8;USA;NVA/VC;Yaah #16;1
