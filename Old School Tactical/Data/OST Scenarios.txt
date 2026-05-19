@@ -33,3 +33,22 @@ The Château de Correy;6/8/1940;Seine Valley, France;11;8;Germany;France;OST V5:
 Price of Delay;6/10/1940;Juniville, France;11;8;Germany;France;OST V5: Battle for France 1940;12
 Maginot Defiance;6/12/1940;Gembloux, France;11;10;Germany;France;OST V5: Battle for France 1940;13
 Last Act;6/20/1940;Gennes, France;11;10;Germany;France;OST V5: Battle for France 1940;14
+SAS Raiders;7/10/1943;Cape Murro di Porco, Sicily;9;9;Italy;UK;OST V4: Italian Theater 1943-45;1
+Italian Answer;7/11/1943;Near Floridia, Sicily;9;10;Italy;UK;OST V4: Italian Theater 1943-45;2
+Blocking Force;7/11/1943;Approaching Augusta, Sicily;9;12;Germany;UK;OST V4: Italian Theater 1943-45;3
+Sit Tight;7/14/1943;Near Agone, Sicily;9;10;Italy;UK;OST V4: Italian Theater 1943-45;4
+Luck of the Irish;8/2/1943;Near Centuripe, Sicily;9;8;Germany;UK;OST V4: Italian Theater 1943-45;5
+Race for the Prize;8/15/1943;Approaching Scalletta, Sicily;9;12;Germany;UK;OST V4: Italian Theater 1943-45;6
+Fallen Allies;9/9/1943;Outside of Rome, Italy;9;7;Germany;Italy;OST V4: Italian Theater 1943-45;7
+Hospital Hill;9/11/1943;Salerno, Italy;9;11;Germany;UK;OST V4: Italian Theater 1943-45;8
+Guards Brigade;9/13/1943;Tusciano River, Italy;9;11;Germany;UK;OST V4: Italian Theater 1943-45;9
+River's Edge;10/13/1943;Volturno River, Italy;9;10;Germany;UK;OST V4: Italian Theater 1943-45;10
+Surprise Party;1/22/1944;Near Nettuno, Italy;10;8;Italy/Germany;USA;OST V4 Bonus – Americans at Anzio;1
+Too Little, Too Late;1/31/1944;Anzio, Italy;9;11;Germany;USA;OST V4 Bonus – Americans at Anzio;2
+The Bloody Thumb;2/6/1944;Anzio beachhead, Italy;9;11;Germany;UK;OST V4: Italian Theater 1943-45;11
+Two Bridges;2/15/1944;Anzio, Italy;9;11;Germany;USA;OST V4 Bonus – Americans at Anzio;3
+Fischfang;2/18/1944;Anzio, Italy;9;12;Germany;USA;OST V4 Bonus – Americans at Anzio;4
+Wet and Wild;3/27/1944;Anzio, Italy;8;10;Germany;USA;OST V4 Bonus – Americans at Anzio;5
+A Wolf in the Fold;8/19/1944;Near Urbino, Italy;9;9;Germany;UK;OST V4: Italian Theater 1943-45;12
+Queen's Revenge;8/24/1944;Near Coriano, Italy;9;12;Germany;UK;OST V4: Italian Theater 1943-45;13
+The Last Line;9/7/1944;Gemmano Ridge, Italy;9;16;Germany;UK;OST V4: Italian Theater 1943-45;14
