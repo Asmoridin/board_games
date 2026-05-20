@@ -52,3 +52,17 @@ Wet and Wild;3/27/1944;Anzio, Italy;8;10;Germany;USA;OST V4 Bonus – Americans 
 A Wolf in the Fold;8/19/1944;Near Urbino, Italy;9;9;Germany;UK;OST V4: Italian Theater 1943-45;12
 Queen's Revenge;8/24/1944;Near Coriano, Italy;9;12;Germany;UK;OST V4: Italian Theater 1943-45;13
 The Last Line;9/7/1944;Gemmano Ridge, Italy;9;16;Germany;UK;OST V4: Italian Theater 1943-45;14
+Maori Warriors;2/18/1944;Cassino, Italy;10;9;Germany;New Zealand;For the Empire;1
+A Kiwi Hammer;3/15/1944;Cassino, Italy;10;14;Germany;New Zealand;For the Empire;2
+The Continental;3/15/1944;Cassino, Italy;10;10;Germany;New Zealand;For the Empire;3
+Albaneta Farm;3/19/1944;Monte Cassino, Italy;10;8;Germany;New Zealand;For the Empire;4
+The Fortress;3/19/1944;Cassino, Italy;10;9;Germany;New Zealand;For the Empire;5
+Upper Hand;7/21/1943;Assuro, Sicily;9;10;Germany;Canada;For the Empire;6
+Into Ortona;12/21/1943;Ortona, Italy;10;11;Germany;Canada;For the Empire;7
+Green Devils;12/24/1944;Ortona, Italy;10;9;Germany;Canada;For the Empire;8
+Dead Horse Square;12/26/1943;Ortona, Italy;10;9;Germany;Canada;For the Empire;9
+Road to Rome;3/19/1944;Liri Valley, Italy;10;12;Germany;Canada;For the Empire;10
+A Hard Day;5/23/1944;Near Acquino, Italy;10;15;Germany;Canada/UK;For the Empire;11
+Recon;5/24/1944;Melfa River, Italy;9;8;Germany;Canada;For the Empire;12
+Hang On Lads;5/25/1944;Melfa River, Italy;9;10;Germany;Canada;For the Empire;13
+Dog Fight;9/14/1944;Coriano, Italy;10;9;Germany;Canada;For the Empire;14
