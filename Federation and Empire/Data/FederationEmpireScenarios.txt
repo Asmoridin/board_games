@@ -1,6 +1,3 @@
-
-
-
 601;The Wind;Y168-Y170;2-4;Lyran/Klingon/Hydran/Kzinti;F&E Base Game
 602;The Tempest;Y171-Y172;2-5;Lyran/Klingon/Hydran/Kzinti/Federation;F&E Base Game
 603;The Hurricane;Y173-Y177;2-7;Lyran/Klingon/Romulan/Hydran/Kzinti/Federation/Gorn/Tholian;F&E Base Game
