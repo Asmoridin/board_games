@@ -66,3 +66,21 @@ A Hard Day;5/23/1944;Near Acquino, Italy;10;15;Germany;Canada/UK;For the Empire;
 Recon;5/24/1944;Melfa River, Italy;9;8;Germany;Canada;For the Empire;12
 Hang On Lads;5/25/1944;Melfa River, Italy;9;10;Germany;Canada;For the Empire;13
 Dog Fight;9/14/1944;Coriano, Italy;10;9;Germany;Canada;For the Empire;14
+Raiders;8/5/1942;Solomon Islands;6;10;Japan;USA;OST V3: Pacific 1942/45;1
+Tulagi First;8/8/1942;Tulagi;6;8;Japan;USA;OST V3: Pacific 1942/45;2
+First Clash;8/19/1942;Guadalcanal;6;10;Japan;USA;OST V3: Pacific 1942/45;3
+Alligator Creek;8/21/1942;Guadalcanal;6;9;Japan;USA;OST V3: Pacific 1942/45;4
+The Old Breed;9/11/1942;Guadalcanal;6;5;Japan;USA;OST V3: Pacific 1942/45;5
+Edson's Ridge;9/13/1942;Guadalcanal;6;12;Japan;USA;OST V3: Pacific 1942/45;6
+Starvation Island;1/26/1945;Guadalcanal;6;9;Japan;USA;OST V3: Pacific 1942/45;7
+The Piva Trail;11/8/1943;Bougainville;6;10;Japan;USA;OST V3: Pacific 1942/45;8
+Clear Them Out;11/9/1943;Bougainville;6;10;Japan;USA;OST V3: Pacific 1942/45;8.1
+The Beachhead;11/10/1943;Bougainville;6;10;Japan;USA;OST V3: Pacific 1942/45;8.2
+In the Coconut Grove;11/14/1943;Bougainville;6;10;Japan;USA;OST V3: Pacific 1942/45;9
+Ground and Pound;11/19/1943;Bougainville;6;10;Japan;USA;OST V3: Pacific 1942/45;10
+Arawe Ambush;12/24/1943;New Britain;6;8;Japan;USA;OST V3: Pacific 1942/45;11
+Suicide Creek;1/2/1944;New Britain;6;8;Japan;USA;OST V3: Pacific 1942/45;12
+Silent and Swift;1/3/1944;New Britain;7;8;Japan;USA;OST V3: Pacific 1942/45;13
+Dying For Thirst;6/3/1944;Biak;6;12;Japan;USA;OST V3: Pacific 1942/45;14
+Shot For Shot;7/8/1944;Biak;6;9;Japan;USA;OST V3: Pacific 1942/45;15
+Crossing the Driniumor;7/14/1944;New Guinea;6;14;Japan;USA;OST V3: Pacific 1942/45;16
