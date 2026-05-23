@@ -1,4 +1,4 @@
-# Scenario Name;Date;Location;Maps;Turns;Side 1;Side 2;Product;Scen Number in Product
+# Scenario Name;Date;Location;Maps;Turns;Side 1;Side 2;Product;Scen Number
 First Shots;9/1/1939;Westerplatte, Free City of Danzig;12;8;Germany;Poland;First to Fight;1
 The Ruse;9/1/1939;Wielkie Zdroje, Poland;12;8;Germany;Poland;First to Fight;2
 Blitzkrieg;9/1/1939;Near Mszana, Poland;12;9;Germany;Poland;First to Fight;3
@@ -33,54 +33,101 @@ The Château de Correy;6/8/1940;Seine Valley, France;11;8;Germany;France;OST V5:
 Price of Delay;6/10/1940;Juniville, France;11;8;Germany;France;OST V5: Battle for France 1940;12
 Maginot Defiance;6/12/1940;Gembloux, France;11;10;Germany;France;OST V5: Battle for France 1940;13
 Last Act;6/20/1940;Gennes, France;11;10;Germany;France;OST V5: Battle for France 1940;14
+No Hope But Glory;12/23/1941;Wake Island;7;8;Japan;USA;Hell Bent;1
 SAS Raiders;7/10/1943;Cape Murro di Porco, Sicily;9;9;Italy;UK;OST V4: Italian Theater 1943-45;1
 Italian Answer;7/11/1943;Near Floridia, Sicily;9;10;Italy;UK;OST V4: Italian Theater 1943-45;2
 Blocking Force;7/11/1943;Approaching Augusta, Sicily;9;12;Germany;UK;OST V4: Italian Theater 1943-45;3
 Sit Tight;7/14/1943;Near Agone, Sicily;9;10;Italy;UK;OST V4: Italian Theater 1943-45;4
+Upper Hand;7/21/1943;Assuro, Sicily;9;10;Germany;Canada;For the Empire;6
 Luck of the Irish;8/2/1943;Near Centuripe, Sicily;9;8;Germany;UK;OST V4: Italian Theater 1943-45;5
 Race for the Prize;8/15/1943;Approaching Scalletta, Sicily;9;12;Germany;UK;OST V4: Italian Theater 1943-45;6
 Fallen Allies;9/9/1943;Outside of Rome, Italy;9;7;Germany;Italy;OST V4: Italian Theater 1943-45;7
 Hospital Hill;9/11/1943;Salerno, Italy;9;11;Germany;UK;OST V4: Italian Theater 1943-45;8
 Guards Brigade;9/13/1943;Tusciano River, Italy;9;11;Germany;UK;OST V4: Italian Theater 1943-45;9
 River's Edge;10/13/1943;Volturno River, Italy;9;10;Germany;UK;OST V4: Italian Theater 1943-45;10
+Red Beach;11/20/1943;Betio Island, Tarawa Atoll;7;12;Japan;USA;Hell Bent;2
+China Gal;11/21/1943;Betio Island, Tarawa Atoll;7;10;Japan;USA;Hell Bent;3
+Into Ortona;12/21/1943;Ortona, Italy;10;11;Germany;Canada;For the Empire;7
+Dead Horse Square;12/26/1943;Ortona, Italy;10;9;Germany;Canada;For the Empire;9
 Surprise Party;1/22/1944;Near Nettuno, Italy;10;8;Italy/Germany;USA;OST V4 Bonus – Americans at Anzio;1
 Too Little, Too Late;1/31/1944;Anzio, Italy;9;11;Germany;USA;OST V4 Bonus – Americans at Anzio;2
 The Bloody Thumb;2/6/1944;Anzio beachhead, Italy;9;11;Germany;UK;OST V4: Italian Theater 1943-45;11
 Two Bridges;2/15/1944;Anzio, Italy;9;11;Germany;USA;OST V4 Bonus – Americans at Anzio;3
-Fischfang;2/18/1944;Anzio, Italy;9;12;Germany;USA;OST V4 Bonus – Americans at Anzio;4
-Wet and Wild;3/27/1944;Anzio, Italy;8;10;Germany;USA;OST V4 Bonus – Americans at Anzio;5
-A Wolf in the Fold;8/19/1944;Near Urbino, Italy;9;9;Germany;UK;OST V4: Italian Theater 1943-45;12
-Queen's Revenge;8/24/1944;Near Coriano, Italy;9;12;Germany;UK;OST V4: Italian Theater 1943-45;13
-The Last Line;9/7/1944;Gemmano Ridge, Italy;9;16;Germany;UK;OST V4: Italian Theater 1943-45;14
 Maori Warriors;2/18/1944;Cassino, Italy;10;9;Germany;New Zealand;For the Empire;1
+Fischfang;2/18/1944;Anzio, Italy;9;12;Germany;USA;OST V4 Bonus – Americans at Anzio;4
 A Kiwi Hammer;3/15/1944;Cassino, Italy;10;14;Germany;New Zealand;For the Empire;2
 The Continental;3/15/1944;Cassino, Italy;10;10;Germany;New Zealand;For the Empire;3
 Albaneta Farm;3/19/1944;Monte Cassino, Italy;10;8;Germany;New Zealand;For the Empire;4
 The Fortress;3/19/1944;Cassino, Italy;10;9;Germany;New Zealand;For the Empire;5
-Upper Hand;7/21/1943;Assuro, Sicily;9;10;Germany;Canada;For the Empire;6
-Into Ortona;12/21/1943;Ortona, Italy;10;11;Germany;Canada;For the Empire;7
-Green Devils;12/24/1944;Ortona, Italy;10;9;Germany;Canada;For the Empire;8
-Dead Horse Square;12/26/1943;Ortona, Italy;10;9;Germany;Canada;For the Empire;9
 Road to Rome;3/19/1944;Liri Valley, Italy;10;12;Germany;Canada;For the Empire;10
+Wet and Wild;3/27/1944;Anzio, Italy;8;10;Germany;USA;OST V4 Bonus – Americans at Anzio;5
 A Hard Day;5/23/1944;Near Acquino, Italy;10;15;Germany;Canada/UK;For the Empire;11
 Recon;5/24/1944;Melfa River, Italy;9;8;Germany;Canada;For the Empire;12
 Hang On Lads;5/25/1944;Melfa River, Italy;9;10;Germany;Canada;For the Empire;13
+Drop Zone Charlie;6/6/1944;Le Chemin, France;5;5;Germany;USA;Airborne;1
+The Big Drop;6/6/1944;Saint-Mère-Église, France;5;7;Germany;USA;Airborne;3
+D-Day Dawn;6/6/1944;Saint-Mère-Église, France;5;11;Germany;USA;Airborne;4
+Taking the Town Square;6/6/1944;Saint-Mère-Église, France;5;8;Germany;USA;Airborne;5
+Fox in the Henhouse;6/7/1944;Near Saint-Marcouf, France;5;6;Germany;USA;Airborne;2
+Linking Up;6/7/1944;Saint-Mère-Église, France;5;10;Germany;USA;Airborne;6
+Into the Fog;6/11/1944;Approaching Emelie, France;4;6;Germany;USA;OST V2: West Front 1944/45;2
+FUBAR;6/18/1944;Cotentin Peninsula, France;4;7;Germany;USA;OST V2: West Front 1944/45;3
+The Abbey;6/18/1944;Near Montebourge, France;4;9;Germany;USA;OST V2: West Front 1944/45;9
+The Highway;6/23/1944;North of Dubrovno, Russia;G4/G5;11;Germany;Soviet Union;Red Blitz;1
+As Night Approaches;6/24/1944;Kirowsk, Russia;G6;9;Germany;Soviet Union;Red Blitz;2
+Rampage;6/26/1944;Saipan;7;10;Japan;USA;Hell Bent;4
+Smash and Burn;6/26/1944;Vitebsk, Russia;G7;9;Germany;Soviet Union;Red Blitz;3
+No Way Out;6/28/1944;Bobruisk, Russia;G4/G7;14;Germany;Soviet Union;Red Blitz;4
+The Trains Must Run;7/2/1944;Outside of Minsk, Russia;G4/G5;13;Germany;Soviet Union;Red Blitz;5
+A Hard Bargain;7/2/1944;Minsk area, Russia;1;40;Germany;Soviet Union;Red Blitz;7
+The Last Banzai;7/7/1944;Saipan;7;12;Japan;USA;Hell Bent;5
+Ruckkampfer;7/8/1944;Logoysk, Russia;G5/G6;14;Germany;Soviet Union;Red Blitz;6
+The Lost Boys;7/16/1944;Near the Madeleine River, France;4;5;Germany;USA;OST V2: West Front 1944/45;1
+Hedgerow Clash;7/16/1944;Approaching Saint-Lô, France;4;7;Germany;USA;OST V2: West Front 1944/45;4
+Cobra;7/25/1944;Near Hébécrevon, France;4;10;Germany;USA;OST V2: West Front 1944/45;14
+Patton's Ghosts;8/6/1944;Outside of Le Mans, France;4;7;Germany;USA;OST V2: West Front 1944/45;5
+Operation Lüttich;8/7/1944;Near Mortain, France;4;10;Germany;USA;OST V2: West Front 1944/45;13
+The Beast of Argentan;8/14/1944;Approaching Argentan, France;4;12;Germany;USA;OST V2: West Front 1944/45;16
+A Wolf in the Fold;8/19/1944;Near Urbino, Italy;9;9;Germany;UK;OST V4: Italian Theater 1943-45;12
+Queen's Revenge;8/24/1944;Near Coriano, Italy;9;12;Germany;UK;OST V4: Italian Theater 1943-45;13
+The Last Line;9/7/1944;Gemmano Ridge, Italy;9;16;Germany;UK;OST V4: Italian Theater 1943-45;14
+Night Raid;9/12/1944;Approaching Metz, France;4;8;Germany;USA;OST V2: West Front 1944/45;7
 Dog Fight;9/14/1944;Coriano, Italy;10;9;Germany;Canada;For the Empire;14
-Raiders;8/5/1942;Solomon Islands;6;10;Japan;USA;OST V3: Pacific 1942/45;1
-Tulagi First;8/8/1942;Tulagi;6;8;Japan;USA;OST V3: Pacific 1942/45;2
-First Clash;8/19/1942;Guadalcanal;6;10;Japan;USA;OST V3: Pacific 1942/45;3
-Alligator Creek;8/21/1942;Guadalcanal;6;9;Japan;USA;OST V3: Pacific 1942/45;4
-The Old Breed;9/11/1942;Guadalcanal;6;5;Japan;USA;OST V3: Pacific 1942/45;5
-Edson's Ridge;9/13/1942;Guadalcanal;6;12;Japan;USA;OST V3: Pacific 1942/45;6
-Starvation Island;1/26/1945;Guadalcanal;6;9;Japan;USA;OST V3: Pacific 1942/45;7
-The Piva Trail;11/8/1943;Bougainville;6;10;Japan;USA;OST V3: Pacific 1942/45;8
-Clear Them Out;11/9/1943;Bougainville;6;10;Japan;USA;OST V3: Pacific 1942/45;8.1
-The Beachhead;11/10/1943;Bougainville;6;10;Japan;USA;OST V3: Pacific 1942/45;8.2
-In the Coconut Grove;11/14/1943;Bougainville;6;10;Japan;USA;OST V3: Pacific 1942/45;9
-Ground and Pound;11/19/1943;Bougainville;6;10;Japan;USA;OST V3: Pacific 1942/45;10
-Arawe Ambush;12/24/1943;New Britain;6;8;Japan;USA;OST V3: Pacific 1942/45;11
-Suicide Creek;1/2/1944;New Britain;6;8;Japan;USA;OST V3: Pacific 1942/45;12
-Silent and Swift;1/3/1944;New Britain;7;8;Japan;USA;OST V3: Pacific 1942/45;13
-Dying For Thirst;6/3/1944;Biak;6;12;Japan;USA;OST V3: Pacific 1942/45;14
-Shot For Shot;7/8/1944;Biak;6;9;Japan;USA;OST V3: Pacific 1942/45;15
-Crossing the Driniumor;7/14/1944;New Guinea;6;14;Japan;USA;OST V3: Pacific 1942/45;16
+Steak & Eggs;9/15/1944;Peleliu;7;12;Japan;USA;Hell Bent;6
+Nakagawa Strikes Back;9/15/1944;Peleliu;7;10;Japan;USA;Hell Bent;7
+The Point;9/16/1944;Peleliu;7;8;Japan;USA;Hell Bent;8
+Bourbon for Bravery;10/8/1944;South of Aachen, Germany;4;10;Germany;USA;OST V2: West Front 1944/45;12
+Bloody Nose Ridge;11/2/1944;Peleliu;7;10;Japan;USA;Hell Bent;9
+Bad Idea;12/6/1944;Singling, France;5;11;Germany;USA;OST V2: West Front 1944/45;17
+A German Sherman;12/13/1944;;4;9;Germany;USA;OST V2: West Front 1944/45;10
+Chaos;12/14/1944;;4;8;Germany;USA;OST V2: West Front 1944/45;8
+Lausdell Crossroads;12/17/1944;Outside of Rocherath, Belgium;8;10;Germany;USA;Ghost Front;1
+Peiper's Chariots;12/17/1944;Approaching Stavelot, Belgium;8;12;Germany;USA;Ghost Front;11
+Knocking on the Door;12/18/1944;Krinkelt, Belgium;8;8;Germany;USA;Ghost Front;2
+Cat and Mouse;12/18/1944;Rocherath, Belgium;8;7;Germany;USA;Ghost Front;3
+A Bit North of Here;12/18/1944;Near St. Vith, Belgium;R2/R3;6;Germany;USA;Phantom Division;1
+Elcherath;12/18/1944;Elcherath, Germany;R2/R3;7;Germany;USA;Phantom Division;2
+Greif I;12/19/1944;Outside of Moderscheid, Belgium;8;5;Germany;USA;Ghost Front;4
+Greif II;12/19/1944;Outside of Moderscheid, Belgium;8;6;Germany;USA;Ghost Front;5
+Daredevil Tactics;12/19/1944;Outside of Stoumont, Belgium;8;6;Germany;USA;Ghost Front;10
+At Dawns's Early Light;12/19/1944;Noville, Belgium;P1S;6;Germany;USA;OST V2: Pocket Battles;1
+The Bigger They Come;12/19/1944;Noville, Belgium;P2S;9;Germany;USA;OST V2: Pocket Battles;2
+Highway to Hell;12/19/1944;Noville, Belgium;P1S/P2S;8;Germany;USA;OST V2: Pocket Battles;3
+Dom Bütgenbach;12/20/1944;Outside of Bütgenbach, Belgium;8;9;Germany;USA;Ghost Front;6
+Breaking Out;12/20/1944;Noville, Belgium;P1S/P2S;7;Germany;USA;OST V2: Pocket Battles;4
+Stand at St. Vith;12/21/1944;St. Vith, Belgium;8;10;Germany;USA;Ghost Front;7
+The Shell Begins to Crack;12/21/1944;Near St. Vith, Belgium;4;13;Germany;USA;Phantom Division;3
+NUTS!;12/23/1944;Bastogne, Belgium;8;7;Germany;USA;Ghost Front;8
+Green Devils;12/24/1944;Ortona, Italy;10;9;Germany;Canada;For the Empire;8
+Joyeux Noël;12/25/1944;Bastogne, Belgium;8;10;Germany;USA;Ghost Front;9
+Action at Potpot;1/16/1945;Luzon;7;8;Japan;USA;Hell Bent;10
+Clark Field;1/24/1945;Luzon;7;10;Japan;USA;Hell Bent;11
+We Can Try;3/7/1945;Near Remagen, Germany;G1;6;Germany;USA;Phantom Division;4
+Over the Rhine;3/10/1945;Near Remagen, Germany;4;11;Germany;USA;OST V2: West Front 1944/45;15
+Heavy Hitters;3/21/1945;The Ruhr, Germany;4;9;Germany;USA;OST V2: West Front 1944/45;11
+Big Boys;3/24/1945;Near Remagen, Germany;G1/G2/G3;8;Germany;USA;Phantom Division;5
+Any Day: The Ruhr Pocket;4/1/1945;Germany;G1;7;Germany;USA;Phantom Division;6
+Hunting the Hunters;4/2/1945;The Ruhr pocket, Germany;4;7;Germany;USA;OST V2: West Front 1944/45;6
+Fools Rush In;4/19/1945;Okinawa;7;7;Japan;USA;Hell Bent;12
+Sugarloaf Hill;5/17/1945;Okinawa;7;14;Japan;USA;Hell Bent;13
+Last Battle, Last Stand;6/20/1945;Okinawa;7;12;Japan;USA;Hell Bent;14
