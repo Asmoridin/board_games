@@ -131,3 +131,40 @@ Hunting the Hunters;4/2/1945;The Ruhr pocket, Germany;4;7;Germany;USA;OST V2: We
 Fools Rush In;4/19/1945;Okinawa;7;7;Japan;USA;Hell Bent;12
 Sugarloaf Hill;5/17/1945;Okinawa;7;14;Japan;USA;Hell Bent;13
 Last Battle, Last Stand;6/20/1945;Okinawa;7;12;Japan;USA;Hell Bent;14
+Over the Border;6/22/1941;Russia;1;4;Germany;Soviet Union;OST V1: Eastern Front 1941-42;1
+Irons in the Fire;6/23/1941;Russia;1;4;Germany;Soviet Union;OST V1: Eastern Front 1941-42;2
+A Deadly Race;6/27/1941;Approaching the Berezina, Russia;1;8;Germany;Soviet Union;OST V1: Eastern Front 1941-42;3
+Sitting Ducks;6/28/1941;Near Bialystok, Russia;1;6;Germany;Soviet Union;OST V1: Eastern Front 1941-42;4
+The Commisar Order;6/29/1941;Near Tarakanow, Russia;1;7;Germany;Soviet Union;OST V1: Eastern Front 1941-42;5
+Shattered;6/26/1941;Near Brody, Russia;1;14;Germany;Soviet Union;OST V1: Eastern Front 1941-42;6
+Partisan Payback;8/2/1941;The Baltics, Russia;1;9;Germany;Soviet Union;OST V1: Eastern Front 1941-42;7
+The Wolf's Hook;7/3/1941;Belarus, Russia;1;14;Germany;Soviet Union;OST V1: Eastern Front 1941-42;8
+Brandenburgers;8/5/1941;Approaching Kiev, Russia;1;8;Germany;Soviet Union;OST V1: Eastern Front 1941-42;9
+The Gingerbread House;8/15/1941;Approaching Novgorod, Russia;1;7;Germany;Soviet Union;OST V1: Eastern Front 1941-42;10
+The Salient;9/2/1941;Near Yelnya, Russia;1;10;Germany;Soviet Union;OST V1: Eastern Front 1941-42;11
+Bring Up the Guns;9/28/1942;Near Velikiye Luki, Russia;1;12;Germany;Soviet Union;OST V1: Eastern Front 1941-42;12
+Wake Up Call;12/16/1941;Near Leningrad, Russia;2;7;Germany;Soviet Union;OST V1: Eastern Front 1941-42;13
+Lucky Ivan;12/21/1941;Near Tula, Russia;2;12;Germany;Soviet Union;OST V1: Eastern Front 1941-42;14
+The Last Minute;12/19/1941;Near Tula, Russia;2;10;Germany;Soviet Union;OST V1: Eastern Front 1941-42;15
+Cut Off;1/16/1942;Outside of Okhvat, Russia;2;6;Germany;Soviet Union;OST V1: Eastern Front 1941-42;16
+Chekov's Bridge;1/8/1942;West of Rzhev, Russia;2;8;Germany;Soviet Union;OST V1: Eastern Front 1941-42;17
+Push Back;1/3/1942;Near Rzhev, Russia;2;14;Germany;Soviet Union;OST V1: Eastern Front 1941-42;18
+Chaos Reigns;1/21/1942;West of Rzhev, Russia;2;12;Germany;Soviet Union;OST V1: Eastern Front 1941-42;19
+Steiner's Stand;3/2/1942;A nameless village, Russia;2;8;Germany;Soviet Union;OST V1: Eastern Front 1941-42;20
+A Pair of Eights;2/3/1942;Outside Leningrad, Russia;2;12;Germany;Soviet Union;OST V1: Eastern Front 1941-42;21
+Frozen;2/20/1942;Near Demyansk, Russia;2;14;Germany;Soviet Union;OST V1: Eastern Front 1941-42;22
+No Man's Land;7/2/1942;Near Voronezh, Russia;1;12;Germany;Soviet Union;OST V1: Eastern Front 1941-42;23
+Crossroads;8/1/1942;Near Kotelnikovo, Russia;1;12;Germany;Soviet Union;OST V1: Eastern Front 1941-42;24
+The Guards;12/18/1942;Southwest of Stalingrad, Russia;2;10;Germany;Soviet Union;OST V1: Eastern Front 1941-42;25
+Hedgehog;12/21/1942;Near Bely, Russia;2;20;Germany;Soviet Union;OST V1: Eastern Front 1941-42;26
+501st Heavy;6/23/1944;Near Orsha, Russia;1;7;Germany;Soviet Union;OST V1: Eastern Front 1941-42;27
+Cornered Cats;7/15/1944;;3;12;Germany;Soviet Union;OST V1: Eastern Front 1941-42 (1st Edition);1
+A Roof to Sleep Under;12/15/1942;South of the Stalingrad Pocket;2;6;OST V1 Kickstarter Bonus Scenarios;1
+The Hound and the Hare;12/16/1942;South of the Stalingrad Pocket;2;8;OST V1 Kickstarter Bonus Scenarios;2
+Retribution;12/16/1942;South of the Stalingrad Pocket;2;5;OST V1 Kickstarter Bonus Scenarios;3
+Rattenkrieg;9/24/1942;Stalingrad;3;7;OST V1: Stalingrad;1
+Siberians;9/23/1942;Stalingrad;3;9;OST V1: Stalingrad;2
+The Nail Factory;9/21/1942;Stalingrad;3;10;OST V1: Stalingrad;3
+Desperation;9/13/1942;Stalingrad;3;11;OST V1: Stalingrad;4
+13th Guards Sacrifice;9/22/1942;Stalingrad;3;12;OST V1: Stalingrad;5
+Death of the 6th Army;1/21/1943;Stalingrad;3;16;OST V1: Stalingrad;6
