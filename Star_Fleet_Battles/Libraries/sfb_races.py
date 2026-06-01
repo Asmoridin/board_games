@@ -19,3 +19,6 @@ all_race_names = alpha_races + simulator_races + omega_races + lmc_races + trian
 
 race_map = {'Alpha':alpha_races, 'Omega':omega_races, 'Simulator':simulator_races,
     'LMC':lmc_races, 'Triangulum':triangulum_races}
+
+if __name__ == "__main__":
+    print(len(all_race_names))
